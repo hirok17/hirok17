@@ -16,7 +16,11 @@
 
 ###
 
-<p align="left">✨ Creating bugs since ...<br>📚 I'm currently learning ...<br>🎯 Goals: ...<br>🎲 Fun fact: ...</p>
+UI/UX Design: Figma, Sketch, Adobe Photoshop, Adobe Illustrator
+◼ Front-end Development: HTML5, CSS3, React.js, WordPress Elementor, JavaScript, jQuery
+◼ CSS Libraries: Bootstrap, Tailwind, Ant Design, Material UI
+◼ Website Optimization & SEO
+◼ Pixel-prefect Frontend Development in static HTML/CSS or React.js.
 
 ###
 
