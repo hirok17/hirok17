@@ -1,4 +1,10 @@
-### Hi there 👋
+<br clear="both">
+
+<div align="center">
+  <img height="" src="https://raw.githubusercontent.com/hirok17/first-assignment/main/imgs/git-hubWeb-Banner.jpg"  />
+</div>
+
+###
 
 <!--
 **hirok17/hirok17** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
