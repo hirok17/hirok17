@@ -31,13 +31,11 @@
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" height="40" alt="nextjs logo"  />
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/storybook/storybook-original.svg" height="40" alt="storybook logo"  />
-  <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="40" alt="nodejs logo"  />
   <img width="12" />
   <img src="https://raw.githubusercontent.com/hirok17/first-assignment/main/imgs/html5.png" height="40" alt="html5"  />
   <img width="12" />
-  <img src="https://raw.githubusercontent.com/hirok17/first-assignment/main/imgs/Tailwind%20CSS.png" height="40" alt="jest logo"  />
+  <img src="https://raw.githubusercontent.com/hirok17/first-assignment/main/imgs/Tailwind%20CSS.png" height="40"  />
 </div>
 
 ###
