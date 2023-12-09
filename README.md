@@ -15,12 +15,13 @@
 <h2 align="left">About me</h2>
 
 ###
-
-UI/UX Design: Figma, Sketch, Adobe Photoshop, Adobe Illustrator
-◼ Front-end Development: HTML5, CSS3, React.js, WordPress Elementor, JavaScript, jQuery
-◼ CSS Libraries: Bootstrap, Tailwind, Ant Design, Material UI
-◼ Website Optimization & SEO
-◼ Pixel-prefect Frontend Development in static HTML/CSS or React.js.
+<ul>
+  <li>UI/UX Design: Figma, Sketch, Adobe Photoshop, Adobe Illustrator</li>
+  <li>Front-end Development: HTML5, CSS3, React.js, WordPress Elementor, JavaScript</li>
+  <li>CSS Libraries: Bootstrap, Tailwind, Ant Design, Material UI</li>
+  <li>Website Optimization & SEO</li>
+  <li>Pixel-prefect Frontend Development in static HTML/CSS or React.js.</li>
+</ul>
 
 ###
 
