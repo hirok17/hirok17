@@ -49,5 +49,4 @@
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=hirok17&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false" height="150" alt="languages graph"  />
 </div>
 
-
-![GitHub streak stats](https://streak-stats.demolab.com/?user=hirok17)  
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=hirok17&theme=gruvbox)](https://git.io/streak-stats)
